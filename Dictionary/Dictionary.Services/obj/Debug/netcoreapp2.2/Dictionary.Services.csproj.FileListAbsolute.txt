@@ -1,0 +1,13 @@
+E:\projects\Dictionary\Dictionary.Services\bin\Debug\netcoreapp2.2\Dictionary.Services.deps.json
+E:\projects\Dictionary\Dictionary.Services\bin\Debug\netcoreapp2.2\Dictionary.Services.dll
+E:\projects\Dictionary\Dictionary.Services\bin\Debug\netcoreapp2.2\Dictionary.Services.pdb
+E:\projects\Dictionary\Dictionary.Services\bin\Debug\netcoreapp2.2\Dictionary.Data.dll
+E:\projects\Dictionary\Dictionary.Services\bin\Debug\netcoreapp2.2\Dictionary.Repositories.dll
+E:\projects\Dictionary\Dictionary.Services\bin\Debug\netcoreapp2.2\Dictionary.Data.pdb
+E:\projects\Dictionary\Dictionary.Services\bin\Debug\netcoreapp2.2\Dictionary.Repositories.pdb
+E:\projects\Dictionary\Dictionary.Services\obj\Debug\netcoreapp2.2\Dictionary.Services.csprojAssemblyReference.cache
+E:\projects\Dictionary\Dictionary.Services\obj\Debug\netcoreapp2.2\Dictionary.Services.AssemblyInfoInputs.cache
+E:\projects\Dictionary\Dictionary.Services\obj\Debug\netcoreapp2.2\Dictionary.Services.AssemblyInfo.cs
+E:\projects\Dictionary\Dictionary.Services\obj\Debug\netcoreapp2.2\Dictionary.Services.csproj.CopyComplete
+E:\projects\Dictionary\Dictionary.Services\obj\Debug\netcoreapp2.2\Dictionary.Services.dll
+E:\projects\Dictionary\Dictionary.Services\obj\Debug\netcoreapp2.2\Dictionary.Services.pdb
